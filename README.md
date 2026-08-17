@@ -234,14 +234,4 @@ Autora
 Proyecto realizado como parte de la formación académica en Sistemas Informáticos.
 Autora: Luz Rios
 
-### Ahora haz esto
 
-**1. Copia desde `# Recordatorio de Medicamentos` hasta `Luz Rios`.**
-
-**2. Pégalo en la pantalla de GitHub donde ahora dice `Enter file contents here`.**
-
-**3. NO borres ni modifiques tu `pubspec.yaml`.** Esto va solamente en el `README.md`.
-
-**4. Todavía no presiones “Confirmar los cambios”.**
-
-Cuando lo hayas pegado, mándame una foto de cómo quedó. **Yo te lo reviso antes de que lo publiques**, especialmente la parte de `git clone` y las carpetas, porque en tu GitHub vi que tienes una carpeta `recordatorio_medicamentos` dentro del repositorio y quiero asegurarme de que las instrucciones coincidan exactamente con cómo está organizado tu proyecto.
